@@ -1,4 +1,5 @@
-## Hi there 👋
+Curiosity&Infinity
+对于好奇与探索的赞颂，跨越时间和空间的延续，摒弃种族间的隔阂，有的只是对于宇宙最原始的好奇。正如高赞所说，这里充满了恐惧与孤独，但是一点浪漫即可将其全部驱散。    ------Outer Wilds
 
 <!--
 **JACKnotFUN/JACKnotFUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
